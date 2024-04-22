@@ -88,7 +88,7 @@
 
 ###
 
-<p align="left">- Python Developer ( 2022 - 2023, 6 months ) - Sena <br><br>- Personal Projects<br><br>- Backend Developer ( 2023 - Now ) - Intellsis</p>
+<p align="left">* Python Developer ( 2022 - 2023, 6 months ) - Sena <br><br> * Personal Projects<br><br> * Backend Developer ( 2023 - Now ) - Intellsis</p>
 
 ###
 
